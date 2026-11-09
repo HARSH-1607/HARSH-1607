@@ -1,12 +1,37 @@
 <div align="center">
-  <img src="assets/portfolio-overview.svg" alt="Harsh Gautam — software engineering, AI, web applications, Unity and Unreal games, and C++ systems" width="100%" />
+  <img src="assets/terminal-hero.svg" alt="Harsh Gautam — software engineer, AI developer, and game developer" width="100%" />
 
-  # Harsh Gautam
-
-  **Software engineer working across AI applications, web products, games, and systems.**
-
-  [Browse all projects](#project-directory) · [Explore by discipline](#portfolio-map) · [LinkedIn](https://www.linkedin.com/in/harsh-gautam-70b1a6256/)
+  <p>
+    <a href="https://www.linkedin.com/in/harsh-gautam-70b1a6256/"><img src="assets/badge-linkedin.svg" alt="LinkedIn" height="36" /></a>
+    <a href="#project-directory"><img src="assets/badge-projects.svg" alt="Browse projects" height="36" /></a>
+    <a href="#selected-work"><img src="assets/badge-demos.svg" alt="Live demos and selected work" height="36" /></a>
+  </p>
 </div>
+
+## `~/ whoami`
+
+```text
+$ cat about.txt
+Name   : Harsh Gautam
+Focus  : AI applications · full-stack products · Unity and Unreal games · C++ systems
+Builds : 27 public project repositories across software, data, games, and tooling
+```
+
+I build working prototypes with clear APIs, useful interfaces, and practical data or AI features. The directory below covers my public project repositories, including independent work and two clearly marked open source forks.
+
+## `~/ toolbox`
+
+<div align="center">
+  <img src="assets/toolbox.svg" alt="Technologies across the portfolio: Python, SQL, FastAPI, TypeScript, JavaScript, React, Angular, Kotlin, Unity, Unreal, C sharp, C plus plus, AI and machine learning, PostgreSQL, Docker" width="100%" />
+</div>
+
+## `~/ contribution-calendar`
+
+<div align="center">
+  <img src="assets/contribution-3d.svg" alt="Isometric chart of GitHub contribution intensity for the year ending 9 November 2026" width="100%" />
+</div>
+
+<sub>Activity graphic: snapshot of GitHub's public contribution levels on 9 November 2026. GitHub's live contribution graph appears below the pinned repositories on this profile.</sub>
 
 ## Portfolio map
 

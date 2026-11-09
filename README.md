@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/overview.svg" alt="Harsh Gautam — software engineering, AI, web applications, Unity and Unreal games, and C++ systems" width="100%" />
+  <img src="assets/portfolio-overview.svg" alt="Harsh Gautam — software engineering, AI, web applications, Unity and Unreal games, and C++ systems" width="100%" />
 
   # Harsh Gautam
 

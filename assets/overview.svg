@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Harsh Gautam software engineer portfolio featuring three live applications">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1222"/><stop offset=".58" stop-color="#10253c"/><stop offset="1" stop-color="#14354b"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#45d0bd" stop-opacity=".32"/><stop offset="1" stop-color="#45d0bd" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="430" rx="22" fill="url(#bg)"/>
+  <circle cx="910" cy="115" r="300" fill="url(#glow)"/>
+  <path d="M0 335 C220 260 320 430 610 330 S960 270 1200 350" fill="none" stroke="#56d6c5" stroke-opacity=".18" stroke-width="2"/>
+  <rect x="56" y="53" width="171" height="33" rx="16" fill="#193d4b" stroke="#3d9e98"/>
+  <text x="141" y="75" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#74e0d2">SOFTWARE ENGINEER</text>
+  <text x="56" y="162" font-family="Segoe UI,Arial,sans-serif" font-size="59" font-weight="800" fill="#f6f9fc">Harsh Gautam</text>
+  <text x="58" y="205" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#b8ccdd">Building useful products with Python, SQL,</text>
+  <text x="58" y="236" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#b8ccdd">modern web interfaces, and practical AI.</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#dff6f1">
+    <rect x="56" y="289" width="126" height="45" rx="12" fill="#224459" stroke="#487f83"/><text x="119" y="318" text-anchor="middle">PYTHON</text>
+    <rect x="196" y="289" width="94" height="45" rx="12" fill="#224459" stroke="#487f83"/><text x="243" y="318" text-anchor="middle">SQL</text>
+    <rect x="304" y="289" width="121" height="45" rx="12" fill="#224459" stroke="#487f83"/><text x="364" y="318" text-anchor="middle">REACT</text>
+    <rect x="439" y="289" width="94" height="45" rx="12" fill="#224459" stroke="#487f83"/><text x="486" y="318" text-anchor="middle">AI</text>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="670" y="66" width="465" height="89" rx="17" fill="#1a3549" stroke="#3c697a"/>
+    <circle cx="710" cy="110" r="19" fill="#213e5c"/><path d="M702 110h16M710 102v16" stroke="#77b7ff" stroke-width="3" stroke-linecap="round"/>
+    <text x="745" y="105" font-size="21" font-weight="700" fill="#f2f8fd">SupportOps AI</text><text x="745" y="130" font-size="15" fill="#a9c6d6">Human-reviewed support triage</text>
+    <rect x="670" y="169" width="465" height="89" rx="17" fill="#1a3549" stroke="#3c697a"/>
+    <circle cx="710" cy="213" r="19" fill="#273f4c"/><path d="M699 220l8-8 7 4 9-11" fill="none" stroke="#71d7a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="745" y="208" font-size="21" font-weight="700" fill="#f2f8fd">CommercePulse</text><text x="745" y="233" font-size="15" fill="#a9c6d6">Sales, stock, and demand intelligence</text>
+    <rect x="670" y="272" width="465" height="89" rx="17" fill="#1a3549" stroke="#3c697a"/>
+    <circle cx="710" cy="316" r="19" fill="#443b58"/><path d="M703 306h13v20h-13zM706 312h7M706 317h7" fill="none" stroke="#c8a2ff" stroke-width="2" stroke-linejoin="round"/>
+    <text x="745" y="311" font-size="21" font-weight="700" fill="#f2f8fd">PolicyLens</text><text x="745" y="336" font-size="15" fill="#a9c6d6">Document answers with exact citations</text>
+  </g>
+</svg>
